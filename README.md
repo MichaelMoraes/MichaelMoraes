@@ -1,6 +1,6 @@
 - 👋 I’m @MichaelMoraes
 - 👀 I’m interested in learn more programming 
-- 🌱 I’m currently learning js,git...
+- 🌱 I’m currently learning js,React,FLutter...
 - 💞️ I’m looking to collaborate on shared projects here
 - 📫
 <!---
